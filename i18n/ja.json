@@ -2,8 +2,10 @@
   "groups": {
     "start": "はじめに",
     "use": "Letronna の使い方",
+    "extend": "連携と拡張",
     "cloud": "クラウドとチーム",
-    "account": "アカウントとデータ"
+    "account": "アカウントとデータ",
+    "help": "ヘルプ"
   },
   "ui": {
     "home": "Letronna ホーム",

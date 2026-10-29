@@ -2,8 +2,10 @@
   "groups": {
     "start": "시작하기",
     "use": "Letronna 사용하기",
+    "extend": "연결과 확장",
     "cloud": "클라우드와 팀",
-    "account": "계정과 데이터"
+    "account": "계정과 데이터",
+    "help": "도움말"
   },
   "ui": {
     "home": "Letronna 홈",

@@ -19,6 +19,8 @@ Letronna keeps its data in one folder on your computer:
 | `mcp.json` | MCP servers whose tools it may use (optional) |
 | `media/` | images, speech and video made with no project attached |
 
+On macOS and Windows, keys and tokens are moved from that file into the Keychain or Credential Manager. The model never sees your keys, and its file tools cannot read the data folder.
+
 With a project folder attached, its `AGENTS.md` is read as the project's instructions. Chat text goes to the gateway you picked and nowhere else; with the Letronna gateway, that is api.letronna.ai, which records each request's model and cost for your usage page. A task you send to [Letronna Cloud](/docs/cloud) runs on Letronna's servers, with only what the task itself carries.
 
 ## Tools from MCP servers

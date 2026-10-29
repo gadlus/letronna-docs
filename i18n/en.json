@@ -2,8 +2,10 @@
   "groups": {
     "start": "Getting started",
     "use": "Using Letronna",
+    "extend": "Connect and extend",
     "cloud": "Cloud and teams",
-    "account": "Account and data"
+    "account": "Account and data",
+    "help": "Help"
   },
   "ui": {
     "home": "Letronna home",
