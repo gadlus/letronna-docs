@@ -11,6 +11,20 @@
       {
         "page": "app",
         "pages": [
+          {
+            "page": "app/window/layout",
+            "pages": [
+              "app/window/setup",
+              "app/window/panel",
+              "app/window/palette",
+              "app/window/shortcuts",
+              "app/window/settings",
+              "app/window/appearance",
+              "app/window/voice",
+              "app/window/quick-entry",
+              "app/window/tray"
+            ]
+          },
           "app/permissions",
           "app/tools",
           "app/sessions",
@@ -27,11 +41,53 @@
           "terminal/options",
           "terminal/slash-commands",
           "terminal/keys",
-          "terminal/scripts"
+          "terminal/scripts",
+          {
+            "page": "terminal/tui/screen",
+            "pages": [
+              "terminal/tui/approvals",
+              "terminal/tui/pickers",
+              "terminal/tui/selecting-and-copying",
+              "terminal/tui/scrolling",
+              "terminal/tui/pasting-and-pictures",
+              "terminal/tui/notifications",
+              "terminal/tui/look-and-feel",
+              "terminal/tui/terminal-support"
+            ]
+          }
+        ]
+      },
+      {
+        "page": "mobile/overview",
+        "pages": [
+          "mobile/signing-in",
+          "mobile/chats",
+          "mobile/models",
+          {
+            "page": "mobile/offline",
+            "pages": [
+              "mobile/add-model"
+            ]
+          },
+          "mobile/search-and-photos",
+          "mobile/live-activity",
+          "mobile/your-computer",
+          "mobile/code-sessions",
+          "mobile/settings"
         ]
       },
       "gateways",
-      "hosted-models"
+      "hosted-models",
+      {
+        "page": "local-models/overview",
+        "pages": [
+          "local-models/ollama",
+          "local-models/other-servers",
+          "local-models/choosing-a-model",
+          "local-models/offline",
+          "local-models/local-endpoint"
+        ]
+      }
     ]
   },
   {
@@ -46,7 +102,19 @@
   {
     "group": "cloud",
     "pages": [
-      "cloud",
+      {
+        "page": "cloud",
+        "pages": [
+          "cloud/tasks",
+          "cloud/services",
+          "cloud/web-apps",
+          "cloud/managing",
+          "cloud/terminal",
+          "cloud/telegram",
+          "cloud/costs",
+          "cloud/limits"
+        ]
+      },
       "teams"
     ]
   },
@@ -56,6 +124,17 @@
       "dashboard",
       "letro",
       "data-and-privacy"
+    ]
+  },
+  {
+    "group": "developers",
+    "pages": [
+      {
+        "page": "developers/overview",
+        "pages": [
+          "developers/building-on-letronna"
+        ]
+      }
     ]
   },
   {

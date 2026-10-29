@@ -5,7 +5,8 @@
     "extend": "連携と拡張",
     "cloud": "クラウドとチーム",
     "account": "アカウントとデータ",
-    "help": "ヘルプ"
+    "help": "ヘルプ",
+    "developers": "開発者向け"
   },
   "ui": {
     "home": "Letronna ホーム",

@@ -5,7 +5,8 @@
     "extend": "연결과 확장",
     "cloud": "클라우드와 팀",
     "account": "계정과 데이터",
-    "help": "도움말"
+    "help": "도움말",
+    "developers": "개발자"
   },
   "ui": {
     "home": "Letronna 홈",

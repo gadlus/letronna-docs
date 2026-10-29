@@ -5,7 +5,8 @@
     "extend": "连接与扩展",
     "cloud": "云端与团队",
     "account": "账户与数据",
-    "help": "帮助"
+    "help": "帮助",
+    "developers": "开发者"
   },
   "ui": {
     "home": "Letronna 首页",
