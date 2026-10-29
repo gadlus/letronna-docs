@@ -1,0 +1,21 @@
+name: Publish
+
+# A merge to main rebuilds letronna.ai, which reads these pages when it builds.
+# DEPLOY_HOOK is a repository secret: the site's deploy webhook URL.
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Rebuild letronna.ai
+        env:
+          DEPLOY_HOOK: ${{ secrets.DEPLOY_HOOK }}
+        run: |
+          if [ -z "$DEPLOY_HOOK" ]; then echo "DEPLOY_HOOK is not set; skipping"; exit 0; fi
+          curl -fsS -X POST "$DEPLOY_HOOK" > /dev/null

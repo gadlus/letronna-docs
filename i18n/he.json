@@ -1,0 +1,24 @@
+{
+  "groups": {
+    "start": "תחילת עבודה",
+    "use": "שימוש ב־Letronna",
+    "cloud": "ענן וצוותים",
+    "account": "חשבון ונתונים"
+  },
+  "ui": {
+    "home": "דף הבית של Letronna",
+    "guide": "מדריך",
+    "next": "הבא",
+    "indexTitle": "איך משתמשים ב-Letronna",
+    "indexLede": "מיצירת חשבון ועד כל פקודה בטרמינל. חסר משהו? כתבו ל-support@letronna.ai",
+    "metaTitle": "מדריך — Letronna",
+    "metaDescription": "איך משתמשים ב-Letronna: תחילת העבודה, האפליקציה, הטרמינל, שערים, המודלים שמאוחסנים אצלנו, צוותים, LETRO והנתונים שלכם.",
+    "pageTitle": "{title} — מדריך Letronna",
+    "search": "חיפוש במדריך",
+    "noResults": "אין עמוד מתאים",
+    "onThisPage": "בעמוד הזה",
+    "previous": "הקודם",
+    "edit": "עריכת העמוד ב־GitHub",
+    "untranslated": "העמוד הזה עדיין לא תורגם, ולכן הוא מוצג באנגלית. אפשר לתרגם אותו ב־GitHub."
+  }
+}

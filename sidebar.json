@@ -1,14 +1,29 @@
 [
   {
-    "group": "Guide",
+    "group": "start",
     "pages": [
-      "getting-started",
+      "getting-started"
+    ]
+  },
+  {
+    "group": "use",
+    "pages": [
       "app",
       "terminal",
       "gateways",
-      "hosted-models",
+      "hosted-models"
+    ]
+  },
+  {
+    "group": "cloud",
+    "pages": [
       "cloud",
-      "teams",
+      "teams"
+    ]
+  },
+  {
+    "group": "account",
+    "pages": [
       "letro",
       "data-and-privacy"
     ]

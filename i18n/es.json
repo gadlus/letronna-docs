@@ -1,0 +1,24 @@
+{
+  "groups": {
+    "start": "Primeros pasos",
+    "use": "Usar Letronna",
+    "cloud": "Nube y equipos",
+    "account": "Cuenta y datos"
+  },
+  "ui": {
+    "home": "Inicio de Letronna",
+    "guide": "Guía",
+    "next": "Siguiente",
+    "indexTitle": "Cómo usar Letronna",
+    "indexLede": "Desde crear una cuenta hasta cada comando de la terminal. ¿Falta algo? Escribe a support@letronna.ai.",
+    "metaTitle": "Guía — Letronna",
+    "metaDescription": "Cómo usar Letronna: primeros pasos, la app, la terminal, gateways, modelos alojados, equipos, LETRO y tus datos.",
+    "pageTitle": "{title} — Guía de Letronna",
+    "search": "Buscar en la guía",
+    "noResults": "Ninguna página coincide",
+    "onThisPage": "En esta página",
+    "previous": "Anterior",
+    "edit": "Editar esta página en GitHub",
+    "untranslated": "Esta página aún no está traducida, así que se muestra en inglés. Puedes traducirla en GitHub."
+  }
+}

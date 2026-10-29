@@ -1,0 +1,24 @@
+{
+  "groups": {
+    "start": "البدء",
+    "use": "استخدام Letronna",
+    "cloud": "السحابة والفرق",
+    "account": "الحساب والبيانات"
+  },
+  "ui": {
+    "home": "الصفحة الرئيسية في Letronna",
+    "guide": "دليل الاستخدام",
+    "next": "التالي",
+    "indexTitle": "كيفية استخدام Letronna",
+    "indexLede": "من إنشاء الحساب إلى كل أمر في الطرفية. هل ينقص شيء؟ اكتب إلى support@letronna.ai.",
+    "metaTitle": "دليل الاستخدام — Letronna",
+    "metaDescription": "كيف تستخدم Letronna: البداية، والتطبيق، والطرفية، والبوابات، والنماذج التي تستضيفها Letronna، والفرق، وعن LETRO وبياناتك.",
+    "pageTitle": "{title} — دليل Letronna",
+    "search": "ابحث في الدليل",
+    "noResults": "لا توجد صفحة مطابقة",
+    "onThisPage": "في هذه الصفحة",
+    "previous": "السابق",
+    "edit": "عدّل هذه الصفحة على GitHub",
+    "untranslated": "لم تُترجم هذه الصفحة بعد، لذا تُعرض بالإنجليزية. يمكنك ترجمتها على GitHub."
+  }
+}

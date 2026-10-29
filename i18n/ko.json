@@ -1,0 +1,24 @@
+{
+  "groups": {
+    "start": "시작하기",
+    "use": "Letronna 사용하기",
+    "cloud": "클라우드와 팀",
+    "account": "계정과 데이터"
+  },
+  "ui": {
+    "home": "Letronna 홈",
+    "guide": "가이드",
+    "next": "다음",
+    "indexTitle": "Letronna 사용법",
+    "indexLede": "계정 만들기부터 터미널의 모든 명령까지. 빠진 것이 있나요? support@letronna.ai로 알려 주세요.",
+    "metaTitle": "가이드 — Letronna",
+    "metaDescription": "Letronna 사용법: 시작하기, 앱, 터미널, 게이트웨이, 호스팅 모델, 팀, LETRO, 내 데이터.",
+    "pageTitle": "{title} — Letronna 가이드",
+    "search": "가이드 검색",
+    "noResults": "일치하는 페이지가 없습니다",
+    "onThisPage": "이 페이지의 내용",
+    "previous": "이전",
+    "edit": "GitHub에서 이 페이지 편집",
+    "untranslated": "이 페이지는 아직 번역되지 않아 영어로 표시됩니다. GitHub에서 번역할 수 있습니다."
+  }
+}

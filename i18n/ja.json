@@ -1,0 +1,24 @@
+{
+  "groups": {
+    "start": "はじめに",
+    "use": "Letronna の使い方",
+    "cloud": "クラウドとチーム",
+    "account": "アカウントとデータ"
+  },
+  "ui": {
+    "home": "Letronna ホーム",
+    "guide": "ガイド",
+    "next": "次へ",
+    "indexTitle": "Letronna の使い方",
+    "indexLede": "アカウントの作成から、ターミナルのすべてのコマンドまで。足りないものがあれば、support@letronna.ai までご連絡ください。",
+    "metaTitle": "ガイド — Letronna",
+    "metaDescription": "Letronna の使い方：はじめに、アプリ、ターミナル、ゲートウェイ、ホスト型モデル、チーム、LETRO、そしてあなたのデータ。",
+    "pageTitle": "{title} — Letronna ガイド",
+    "search": "ガイドを検索",
+    "noResults": "一致するページはありません",
+    "onThisPage": "このページの内容",
+    "previous": "前へ",
+    "edit": "GitHub でこのページを編集",
+    "untranslated": "このページはまだ翻訳されていないため、英語で表示しています。GitHub で翻訳できます。"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "groups": {
+    "start": "入门",
+    "use": "使用 Letronna",
+    "cloud": "云端与团队",
+    "account": "账户与数据"
+  },
+  "ui": {
+    "home": "Letronna 首页",
+    "guide": "指南",
+    "next": "下一页",
+    "indexTitle": "如何使用 Letronna",
+    "indexLede": "从创建账户到终端的每一条命令。有遗漏？请发邮件到 support@letronna.ai。",
+    "metaTitle": "指南 — Letronna",
+    "metaDescription": "如何使用 Letronna：入门、应用、终端、网关、托管模型、团队、LETRO 和你的数据。",
+    "pageTitle": "{title} — Letronna 指南",
+    "search": "搜索指南",
+    "noResults": "没有匹配的页面",
+    "onThisPage": "本页内容",
+    "previous": "上一页",
+    "edit": "在 GitHub 上编辑此页",
+    "untranslated": "此页尚未翻译，因此以英文显示。你可以在 GitHub 上翻译它。"
+  }
+}

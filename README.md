@@ -1,26 +1,13 @@
 # Letronna docs
 
-The guide at [letronna.ai/docs](https://letronna.ai/docs). Anyone can fix a page or add one.
+The guide at [letronna.ai/docs](https://letronna.ai/docs), in nine languages. Anyone can fix a page, add one or translate one.
 
-## How it is laid out
+- Pages are Markdown files: `en/` is the English, and each language has its own folder.
+- `sidebar.json` sets the groups and the order. Pages can sit under other pages.
+- `i18n/<lang>.json` holds the words around the pages, such as group names and the search box.
 
-- `en/`, `de/`, `ja/` and the other language folders hold one Markdown file per page.
-- `sidebar.json` sets the groups and the order of pages. A page with pages under it is written `{ "page": "path", "pages": [ ... ] }`, as deep as you need.
-- Each page starts with its title and a one-line description:
+When a change is merged into `main`, letronna.ai is rebuilt with it.
 
-  ```md
-  ---
-  title: "Gateways"
-  description: "Where Letronna gets its models."
-  ---
-  ```
+**To contribute,** read [CONTRIBUTING.md](CONTRIBUTING.md) and run `node scripts/check.mjs` before you open a pull request.
 
-English is the source. A page that a language has not translated yet shows in English.
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-The text is [CC BY 4.0](LICENSE).
+The text is published under [CC BY 4.0](LICENSE).
