@@ -5,7 +5,8 @@
     "extend": "Connect and extend",
     "cloud": "Cloud and teams",
     "account": "Account and data",
-    "help": "Help"
+    "help": "Help",
+    "developers": "Developers"
   },
   "ui": {
     "home": "Letronna home",
