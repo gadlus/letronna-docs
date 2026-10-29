@@ -5,6 +5,8 @@ name: Publish
 on:
   push:
     branches: [main]
+  # and by hand, from the Actions tab or `gh workflow run publish.yml`
+  workflow_dispatch:
 
 permissions:
   contents: read
