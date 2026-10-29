@@ -1,0 +1,16 @@
+[
+  {
+    "group": "Guide",
+    "pages": [
+      "getting-started",
+      "app",
+      "terminal",
+      "gateways",
+      "hosted-models",
+      "cloud",
+      "teams",
+      "letro",
+      "data-and-privacy"
+    ]
+  }
+]
