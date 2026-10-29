@@ -12,10 +12,13 @@ The window is a chat with an agent in it. Sessions are listed on the left, with 
 - Effort, thinking and web search can be switched where the model supports them.
 - When a conversation outgrows the model's window, older turns are summarised instead of forgotten.
 
+Ctrl+K opens a palette of actions, pages, sessions and models, and every part of the window can be reached from the keyboard. Beside the chat, the Files tab browses the project, the Changes tab reviews and reverts this session's edits, and the Jobs tab shows background commands.
+
 ## Settings
 
-- **Gateways**: where each one stands — signed in, connected, not set up, not running — and its key.
+- **Accounts**: each gateway, where it stands — signed in, connected, not set up, not running — and its key.
 - **Account**: who is signed in, your credit, and who pays for hosted models: you, or a team you are in.
+- The other pages hold the rest, among them **Search** (the search service), **Model** (a cheaper side model for summaries, and session names), **Appearance** (colours and film grain), **Memory** and **Wallet**.
 
 The window can also be reached from Telegram and Discord, and scheduled jobs report there. Artifacts and Skills have their own pages.
 

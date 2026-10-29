@@ -2,8 +2,10 @@
   "groups": {
     "start": "תחילת עבודה",
     "use": "שימוש ב־Letronna",
+    "extend": "חיבור והרחבה",
     "cloud": "ענן וצוותים",
-    "account": "חשבון ונתונים"
+    "account": "חשבון ונתונים",
+    "help": "עזרה"
   },
   "ui": {
     "home": "דף הבית של Letronna",

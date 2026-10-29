@@ -2,8 +2,10 @@
   "groups": {
     "start": "入门",
     "use": "使用 Letronna",
+    "extend": "连接与扩展",
     "cloud": "云端与团队",
-    "account": "账户与数据"
+    "account": "账户与数据",
+    "help": "帮助"
   },
   "ui": {
     "home": "Letronna 首页",

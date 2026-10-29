@@ -2,8 +2,10 @@
   "groups": {
     "start": "Erste Schritte",
     "use": "Letronna verwenden",
+    "extend": "Verbinden und erweitern",
     "cloud": "Cloud und Teams",
-    "account": "Konto und Daten"
+    "account": "Konto und Daten",
+    "help": "Hilfe"
   },
   "ui": {
     "home": "Letronna-Startseite",

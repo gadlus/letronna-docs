@@ -8,10 +8,39 @@
   {
     "group": "use",
     "pages": [
-      "app",
-      "terminal",
+      {
+        "page": "app",
+        "pages": [
+          "app/permissions",
+          "app/tools",
+          "app/sessions",
+          "app/memory",
+          "app/skills",
+          "app/artifacts",
+          "app/scheduled-jobs",
+          "app/helpers"
+        ]
+      },
+      {
+        "page": "terminal",
+        "pages": [
+          "terminal/options",
+          "terminal/slash-commands",
+          "terminal/keys",
+          "terminal/scripts"
+        ]
+      },
       "gateways",
       "hosted-models"
+    ]
+  },
+  {
+    "group": "extend",
+    "pages": [
+      "chat-apps",
+      "mcp",
+      "plugins",
+      "wallet"
     ]
   },
   {
@@ -24,8 +53,15 @@
   {
     "group": "account",
     "pages": [
+      "dashboard",
       "letro",
       "data-and-privacy"
+    ]
+  },
+  {
+    "group": "help",
+    "pages": [
+      "troubleshooting"
     ]
   }
 ]
