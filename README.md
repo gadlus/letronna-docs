@@ -8,6 +8,6 @@ The guide at [letronna.ai/docs](https://letronna.ai/docs), in nine languages. An
 
 When a change is merged into `main`, letronna.ai is rebuilt with it.
 
-**To contribute,** read [CONTRIBUTING.md](CONTRIBUTING.md) and run `node scripts/check.mjs` before you open a pull request.
+**To contribute,** read [CONTRIBUTING.md](CONTRIBUTING.md) (and [GLOSSARY.md](GLOSSARY.md) to translate) and run `node scripts/check.mjs` before you open a pull request.
 
 The text is published under [CC BY 4.0](LICENSE).

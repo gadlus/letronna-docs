@@ -61,6 +61,8 @@ Until a language translates a new page, readers of that language see the English
 
 ### Languages
 
+Use the words in [GLOSSARY.md](GLOSSARY.md) for Letronna's terms, and its notes on tone for your language.
+
 | Folder | Language | Notes |
 |---|---|---|
 | `en` | English | the source |
@@ -68,8 +70,8 @@ Until a language translates a new page, readers of that language see the English
 | `ja` | Japanese | です／ます style |
 | `ko` | Korean | 합니다 style |
 | `de` | German | informal "du" |
-| `es` | Spanish | informal "tú", neutral Latin American and European wording |
-| `he` | Hebrew | right to left |
+| `es` | Spanish | informal "tú", neutral wording, no "vosotros" |
+| `he` | Hebrew | right to left, gender-neutral plural |
 | `ar` | Arabic | right to left, Modern Standard Arabic |
 | `ru` | Russian | formal "вы" |
 
