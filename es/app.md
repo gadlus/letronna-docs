@@ -14,7 +14,7 @@ La ventana es un chat con un agente dentro. Las sesiones aparecen a la izquierda
 
 ## Configuración (Settings)
 
-- **Gateways**: el estado de cada uno (con sesión iniciada, conectado, sin configurar, sin ejecutarse) y su clave.
+- **Accounts**: el estado de cada uno (con sesión iniciada, conectado, sin configurar, sin ejecutarse) y su clave.
 - **Account**: quién ha iniciado sesión, tu crédito y quién paga los modelos alojados: tú, o un equipo del que formas parte.
 
 También se puede acceder a la ventana desde Telegram y Discord, y las tareas programadas envían allí sus avisos. Artifacts y Skills tienen sus propias páginas.

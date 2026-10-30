@@ -14,7 +14,7 @@ Das Fenster ist ein Chat mit einem Agenten darin. Links stehen die Sitzungen, mi
 
 ## Einstellungen
 
-- **Gateways**: wo jedes steht – angemeldet, verbunden, nicht eingerichtet, läuft nicht – und sein Schlüssel.
+- **Accounts**: wo jedes steht – angemeldet, verbunden, nicht eingerichtet, läuft nicht – und sein Schlüssel.
 - **Account**: wer angemeldet ist, dein Guthaben und wer gehostete Modelle bezahlt: du oder ein Team, in dem du bist.
 
 Das Fenster ist auch über Telegram und Discord erreichbar, und zeitgesteuerte Aufgaben melden sich dort. Artifacts und Skills haben eigene Seiten.
