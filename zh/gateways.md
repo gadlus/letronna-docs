@@ -3,7 +3,7 @@ title: "网关"
 description: "Letronna 的模型从哪里来：你的 Letronna 账户、OpenAI、OpenRouter、Ollama，或任何兼容 OpenAI 的服务器。"
 ---
 
-网关（gateway）是模型的来源。想设置多少个都可以；模型菜单会列出所有网关的模型，每条消息都发送到你所选模型的网关。在应用的 Settings > Gateways 中，或在终端中用 `/gateways`，可以查看它们。
+网关（gateway）是模型的来源。想设置多少个都可以；模型菜单会列出所有网关的模型，每条消息都发送到你所选模型的网关。在应用的 Settings > Accounts 中，或在终端中用 `/gateways`，可以查看它们。
 
 | 网关 | 地址 | 需要 |
 |---|---|---|

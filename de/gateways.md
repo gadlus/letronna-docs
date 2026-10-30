@@ -3,7 +3,7 @@ title: "Gateways"
 description: "Woher Letronna seine Modelle bekommt: dein Letronna-Konto, OpenAI, OpenRouter, Ollama oder jeder OpenAI-kompatible Server."
 ---
 
-Ein Gateway ist die Quelle der Modelle. Richte so viele ein, wie du willst: Das Modellmenü listet sie alle, und jede Nachricht geht an das Gateway des Modells, das du gewählt hast. Du siehst sie in der App unter Settings > Gateways oder im Terminal mit `/gateways`.
+Ein Gateway ist die Quelle der Modelle. Richte so viele ein, wie du willst: Das Modellmenü listet sie alle, und jede Nachricht geht an das Gateway des Modells, das du gewählt hast. Du siehst sie in der App unter Settings > Accounts oder im Terminal mit `/gateways`.
 
 | Gateway | Adresse | Braucht |
 |---|---|---|

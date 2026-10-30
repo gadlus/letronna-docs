@@ -3,7 +3,7 @@ title: "Gateways"
 description: "De dónde obtiene Letronna sus modelos: tu cuenta de Letronna, OpenAI, OpenRouter, Ollama o cualquier servidor compatible con OpenAI."
 ---
 
-Un gateway es el lugar de donde vienen los modelos. Configura cuantos quieras: el menú de modelos los muestra todos, y cada mensaje va al gateway del modelo que elegiste. Mira los gateways en Settings > Gateways en la app, o con `/gateways` en la terminal.
+Un gateway es el lugar de donde vienen los modelos. Configura cuantos quieras: el menú de modelos los muestra todos, y cada mensaje va al gateway del modelo que elegiste. Mira los gateways en Settings > Accounts en la app, o con `/gateways` en la terminal.
 
 | Gateway | Dirección | Necesita |
 |---|---|---|

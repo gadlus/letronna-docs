@@ -3,7 +3,7 @@ title: "게이트웨이"
 description: "Letronna가 모델을 가져오는 곳: 내 Letronna 계정, OpenAI, OpenRouter, Ollama 또는 OpenAI 호환 서버."
 ---
 
-게이트웨이는 모델이 오는 곳입니다. 원하는 만큼 설정하세요. 모델 메뉴에 모두 나열되고, 메시지는 각각 고른 모델의 게이트웨이로 갑니다. 앱의 Settings > Gateways 또는 터미널의 `/gateways`에서 볼 수 있습니다.
+게이트웨이는 모델이 오는 곳입니다. 원하는 만큼 설정하세요. 모델 메뉴에 모두 나열되고, 메시지는 각각 고른 모델의 게이트웨이로 갑니다. 앱의 Settings > Accounts 또는 터미널의 `/gateways`에서 볼 수 있습니다.
 
 | 게이트웨이 | 주소 | 필요한 것 |
 |---|---|---|
