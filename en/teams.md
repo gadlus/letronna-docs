@@ -8,7 +8,7 @@ A team shares one credit pool: everyone's hosted models draw from it. Make one o
 ## Seats
 
 - Team is $18 a seat a month ($183.60 a year), from 2 to 5 seats, and each seat adds its value to the pool.
-- Every member uses a seat; add a seat before inviting someone past them. A seat added mid-month is charged in full, and the pool gets the same amount.
+- Every member uses a seat; add a seat before inviting someone past them. A seat added mid-term is charged as shown when you add it, and the pool gets the matching credit.
 - An admin can remove a seat from the next renewal: the seats paid for stay until then, and nothing is refunded.
 
 ## Admins

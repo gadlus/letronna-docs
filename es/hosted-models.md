@@ -8,7 +8,7 @@ Si has iniciado sesión, el gateway de Letronna te da modelos de chat de Anthrop
 ## Crédito y planes
 
 - **Crédito** se compra desde 1 USD, nunca caduca en una fecha y funciona en todos los planes. Cuando se agota, una solicitud se rechaza con un mensaje que lo indica; tus propias claves siguen funcionando.
-- **Pro** (20 USD al mes, o 199,20 USD al año) añade 20 USD de crédito cada mes, cobra menos por cada modelo alojado y permite el triple de solicitudes por minuto.
+- **Pro** (20 USD al mes, o 199,20 USD al año) añade 20 USD de crédito cada mes (o 240 USD de una vez en el plan anual), cobra menos por cada modelo alojado y permite el triple de solicitudes por minuto.
 - **Team** reúne un solo fondo de crédito para un grupo: consulta [Equipos](/docs/teams).
 - Cada computadora y cada cuenta tiene un límite de solicitudes por minuto, muy por encima del uso normal; si lo supera, Letronna dice cuánto hay que esperar.
 
