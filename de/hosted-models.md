@@ -8,7 +8,7 @@ Angemeldet liefert dir das Letronna-Gateway Chat-Modelle von Anthropic, OpenAI, 
 ## Guthaben und Tarife
 
 - **Guthaben** kaufst du ab 1 $; es verfällt an keinem Datum und gilt in jedem Tarif. Ist es aufgebraucht, wird eine Anfrage mit einem Hinweis darauf abgelehnt; deine eigenen Schlüssel funktionieren weiter.
-- **Pro** (20 $ pro Monat oder 199,20 $ pro Jahr) schreibt dir jeden Monat 20 $ Guthaben gut, berechnet für jedes gehostete Modell weniger und erlaubt dreimal so viele Anfragen pro Minute.
+- **Pro** (20 $ pro Monat oder 199,20 $ pro Jahr) schreibt dir jeden Monat 20 $ Guthaben gut (im Jahresplan 240 $ auf einmal), berechnet für jedes gehostete Modell weniger und erlaubt dreimal so viele Anfragen pro Minute.
 - **Team** stellt einer Gruppe ein gemeinsames Guthaben bereit: siehe [Teams](/docs/teams).
 - Jeder Rechner und jedes Konto hat ein Limit an Anfragen pro Minute, deutlich über dem normalen Gebrauch; darüber hinaus sagt dir Letronna, wie lange du warten musst.
 

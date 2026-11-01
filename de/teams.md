@@ -8,7 +8,7 @@ Ein Team teilt sich ein gemeinsames Guthaben: Die gehosteten Modelle aller Mitgl
 ## Seats
 
 - Team kostet 18 $ pro Seat und Monat (183,60 $ pro Jahr), für 2 bis 5 Seats, und jeder Seat legt seinen Wert ins gemeinsame Guthaben.
-- Jedes Mitglied belegt einen Seat; füge einen Seat hinzu, bevor du über die vorhandenen hinaus jemanden einlädst. Ein mitten im Monat hinzugefügter Seat wird voll berechnet, und das gemeinsame Guthaben bekommt denselben Betrag.
+- Jedes Mitglied belegt einen Seat; füge einen Seat hinzu, bevor du über die vorhandenen hinaus jemanden einlädst. Ein während der Laufzeit hinzugefügter Seat wird so berechnet, wie es beim Hinzufügen angezeigt wird, und das gemeinsame Guthaben bekommt den passenden Betrag.
 - Ein Admin kann einen Seat zur nächsten Verlängerung entfernen: Die bezahlten Seats bleiben bis dahin bestehen, und erstattet wird dafür nichts.
 
 ## Admins

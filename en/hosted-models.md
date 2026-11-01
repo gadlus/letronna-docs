@@ -8,7 +8,7 @@ Signed in, the Letronna gateway gives you chat models from Anthropic, OpenAI, Go
 ## Credit and plans
 
 - **Credit** is bought from $1, never runs out on a date, and works on every plan. A request is refused, with a message saying so, once it has run out; your own keys keep working.
-- **Pro** ($20 a month, or $199.20 a year) adds $20 of credit every month, charges less for every hosted model, and allows three times the requests a minute.
+- **Pro** ($20 a month, or $199.20 a year) adds $20 of credit a month, or $240 at once on the yearly plan, charges less for every hosted model, and allows three times the requests a minute.
 - **Team** puts one credit pool behind a group: see [Teams](/docs/teams).
 - Each computer and each account has a per-minute limit on requests, well above normal use; past it, Letronna says how long to wait.
 

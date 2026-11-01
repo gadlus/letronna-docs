@@ -8,7 +8,7 @@ Un equipo comparte un solo fondo de crédito: los modelos alojados de todos sale
 ## Usuarios
 
 - Team cuesta 18 USD por usuario al mes (183,60 USD al año), de 2 a 5 usuarios, y cada usuario aporta su importe al fondo.
-- Cada miembro cuenta como un usuario; añade un usuario antes de invitar a más personas de las que cubren tus usuarios. Un usuario añadido a mitad de mes se cobra completo, y el fondo recibe la misma cantidad.
+- Cada miembro cuenta como un usuario; añade un usuario antes de invitar a más personas de las que cubren tus usuarios. Un usuario añadido a mitad de periodo se cobra como se indica al añadirlo, y el fondo recibe la cantidad correspondiente.
 - Un administrador puede reducir el número de usuarios a partir de la siguiente renovación: los usuarios ya pagados se mantienen hasta entonces, y no se reembolsa nada.
 
 ## Administradores
