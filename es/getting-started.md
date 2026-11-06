@@ -17,7 +17,7 @@ Abre la página [Descargar](/dashboard/download) en el Panel. Primero ofrece tu 
 - **Windows** (11, x64): descarga el .zip, descomprímelo y ejecuta `letronna.exe setup` — o copia el comando de una línea y pégalo en PowerShell: ese comando hace las dos cosas.
 - **Linux** (x64, glibc 2.31 o superior): descarga el .tar.gz, descomprímelo y ejecuta `./letronna setup`, o pega el comando de una línea en una terminal.
 
-El comando de una línea incluye un enlace de descarga que solo funciona unos minutos; después, cópialo de nuevo. No hacen falta permisos de administrador, y nada se instala fuera de tu propia cuenta en la computadora, salvo la app en Aplicaciones en un Mac.
+No hacen falta permisos de administrador, y nada se instala fuera de tu propia cuenta en la computadora, salvo la app en Aplicaciones en un Mac.
 
 ## 3. Configúralo
 
