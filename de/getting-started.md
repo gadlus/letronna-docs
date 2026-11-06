@@ -13,11 +13,11 @@ Letronna ist ein KI-Agent, der bereitsteht, während du arbeitest: ein Fenster u
 
 Öffne [Download](/dashboard/download) im Dashboard. Die Seite bietet zuerst dein eigenes System an:
 
-- **macOS** (13 oder neuer, Apple Silicon): Öffne die .dmg und zieh Letronna in den Ordner „Programme“. Beim ersten Mal sagt macOS vielleicht, es könne Letronna nicht überprüfen: Schließ die Meldung, öffne Systemeinstellungen › Datenschutz & Sicherheit, klick neben Letronna auf **Dennoch öffnen** und bestätige. Das ist nur einmal nötig.
+- **macOS** (13 oder neuer, Apple Silicon): Kopier den einzeiligen Befehl und füg ihn ins Terminal ein. Er installiert Fenster und Terminal und öffnet Letronna, ohne Warnung, die du wegklicken musst. Oder öffne die .dmg und zieh Letronna in den Ordner „Programme“; beim ersten Mal sagt macOS vielleicht, es könne Letronna nicht überprüfen: Schließ die Meldung, öffne Systemeinstellungen › Datenschutz & Sicherheit, klick neben Letronna auf **Dennoch öffnen** und bestätige. Das ist nur einmal nötig.
 - **Windows** (11, x64): Lade die .zip herunter, entpacke sie und führe `letronna.exe setup` aus – oder kopiere den Einzeiler und füge ihn in PowerShell ein; er erledigt beides.
 - **Linux** (x64, glibc 2.31 oder neuer): Lade die .tar.gz herunter, entpacke sie und führe `./letronna setup` aus – oder füge den Einzeiler in ein Terminal ein.
 
-Der Einzeiler enthält einen Download-Link, der nur einige Minuten lang gültig ist; danach kopierst du ihn einfach neu. Nichts braucht Administratorrechte, und nichts landet außerhalb deines eigenen Benutzerkontos auf dem Rechner.
+Der Einzeiler enthält einen Download-Link, der nur einige Minuten lang gültig ist; danach kopierst du ihn einfach neu. Nichts braucht Administratorrechte, und außer der App im Ordner „Programme“ auf einem Mac landet nichts außerhalb deines eigenen Benutzerkontos auf dem Rechner.
 
 ## 3. Einrichten
 
