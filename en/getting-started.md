@@ -17,7 +17,7 @@ Open [Download](/dashboard/download) in the dashboard. It offers your own system
 - **Windows** (11, x64): download the .zip, unpack it and run `letronna.exe setup` — or copy the one-line command and paste it into PowerShell, which does both.
 - **Linux** (x64, glibc 2.31 or later): download the .tar.gz, unpack it and run `./letronna setup` — or paste the one-line command into a terminal.
 
-The one-line command carries a download link that works for a few minutes; copy it again after that. Nothing needs administrator rights, and nothing goes outside your own account on the computer except, on a Mac, the app in Applications.
+Nothing needs administrator rights, and nothing goes outside your own account on the computer except, on a Mac, the app in Applications.
 
 ## 3. Set it up
 

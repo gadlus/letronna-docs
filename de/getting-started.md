@@ -17,7 +17,7 @@ Letronna ist ein KI-Agent, der bereitsteht, während du arbeitest: ein Fenster u
 - **Windows** (11, x64): Lade die .zip herunter, entpacke sie und führe `letronna.exe setup` aus – oder kopiere den Einzeiler und füge ihn in PowerShell ein; er erledigt beides.
 - **Linux** (x64, glibc 2.31 oder neuer): Lade die .tar.gz herunter, entpacke sie und führe `./letronna setup` aus – oder füge den Einzeiler in ein Terminal ein.
 
-Der Einzeiler enthält einen Download-Link, der nur einige Minuten lang gültig ist; danach kopierst du ihn einfach neu. Nichts braucht Administratorrechte, und außer der App im Ordner „Programme“ auf einem Mac landet nichts außerhalb deines eigenen Benutzerkontos auf dem Rechner.
+Nichts braucht Administratorrechte, und außer der App im Ordner „Programme“ auf einem Mac landet nichts außerhalb deines eigenen Benutzerkontos auf dem Rechner.
 
 ## 3. Einrichten
 
