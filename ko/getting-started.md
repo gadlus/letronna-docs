@@ -13,7 +13,7 @@ letronna.ai에서 [가입하세요](/signup). Letronna가 알파인 동안 다�
 
 대시보드에서 [다운로드](/dashboard/download)를 여세요. 지금 쓰는 시스템이 먼저 표시됩니다:
 
-- **macOS**(13 이상, Apple 실리콘): .dmg를 열고 Letronna를 응용 프로그램 폴더로 드래그하세요.
+- **macOS**(13 이상, Apple 실리콘): .dmg를 열고 Letronna를 응용 프로그램 폴더로 드래그하세요. 처음 열 때 macOS가 Letronna를 확인할 수 없다고 할 수 있습니다. 메시지를 닫고 시스템 설정 › 개인정보 보호 및 보안을 연 다음, Letronna 옆의 **그래도 열기**를 클릭하고 확인하세요. 한 번만 하면 됩니다.
 - **Windows**(11, x64): .zip을 다운로드해 압축을 풀고 `letronna.exe setup`을 실행하세요. 또는 한 줄 명령을 복사해 PowerShell에 붙여 넣으면 둘 다 한 번에 됩니다.
 - **Linux**(x64, glibc 2.31 이상): .tar.gz를 다운로드해 압축을 풀고 `./letronna setup`을 실행하세요. 또는 한 줄 명령을 터미널에 붙여 넣으세요.
 

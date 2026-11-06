@@ -13,7 +13,7 @@ Letronna is an AI agent that stays open beside your work: a window, and the same
 
 Open [Download](/dashboard/download) in the dashboard. It offers your own system first:
 
-- **macOS** (13 or later, Apple silicon): open the .dmg and drag Letronna into Applications.
+- **macOS** (13 or later, Apple silicon): open the .dmg and drag Letronna into Applications. The first time, macOS may say it cannot verify Letronna: close the message, open System Settings › Privacy & Security, click **Open Anyway** next to Letronna and confirm. You only do this once.
 - **Windows** (11, x64): download the .zip, unpack it and run `letronna.exe setup` — or copy the one-line command and paste it into PowerShell, which does both.
 - **Linux** (x64, glibc 2.31 or later): download the .tar.gz, unpack it and run `./letronna setup` — or paste the one-line command into a terminal.
 
