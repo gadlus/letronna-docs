@@ -13,7 +13,7 @@ Letronna 是一个始终在你身边待命的 AI 智能体：一个窗口，以�
 
 在控制台中打开[下载](/dashboard/download)页面。它会优先显示你自己的系统：
 
-- **macOS**（13 及以上，Apple 芯片）：打开 .dmg，把 Letronna 拖到“应用程序”文件夹。
+- **macOS**（13 及以上，Apple 芯片）：打开 .dmg，把 Letronna 拖到“应用程序”文件夹。 第一次打开时，macOS 可能提示无法验证 Letronna：关闭提示，打开“系统设置” › “隐私与安全性”，点按 Letronna 旁边的**仍要打开**并确认。只需这样做一次。
 - **Windows**（11，x64）：下载 .zip，解压后运行 `letronna.exe setup`；或者复制那条单行命令并粘贴到 PowerShell 中，一步完成下载和安装。
 - **Linux**（x64，glibc 2.31 及以上）：下载 .tar.gz，解压后运行 `./letronna setup`；或者把单行命令粘贴到终端中。
 

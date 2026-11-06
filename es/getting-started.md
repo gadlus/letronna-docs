@@ -13,7 +13,7 @@ Letronna es un agente de IA que se queda abierto junto a tu trabajo: una ventana
 
 Abre la página [Descargar](/dashboard/download) en el Panel. Primero ofrece tu propio sistema:
 
-- **macOS** (13 o superior, Apple Silicon): abre el .dmg y arrastra Letronna a Aplicaciones.
+- **macOS** (13 o superior, Apple Silicon): abre el .dmg y arrastra Letronna a Aplicaciones. La primera vez, macOS puede decir que no puede verificar Letronna: cierra el aviso, abre Ajustes del Sistema › Privacidad y seguridad, haz clic en **Abrir igualmente** junto a Letronna y confirma. Solo hace falta una vez.
 - **Windows** (11, x64): descarga el .zip, descomprímelo y ejecuta `letronna.exe setup` — o copia el comando de una línea y pégalo en PowerShell: ese comando hace las dos cosas.
 - **Linux** (x64, glibc 2.31 o superior): descarga el .tar.gz, descomprímelo y ejecuta `./letronna setup`, o pega el comando de una línea en una terminal.
 
